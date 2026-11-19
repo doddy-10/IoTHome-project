@@ -1,0 +1,6 @@
+{
+  "name": "IoTHome — Smart Home Catalog & Control Dashboard",
+  "description": "Platform e-commerce dan dashboard kontrol rumah pintar IoTHome yang responsif untuk desktop dan smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
